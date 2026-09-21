@@ -1,0 +1,9 @@
+langchain
+langchain-core
+Huggingface
+Huggingface-hub
+Pypdf
+python-dotenv
+langchain-community
+langchain-huggingface
+bs4
