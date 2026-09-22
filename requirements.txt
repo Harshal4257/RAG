@@ -7,3 +7,6 @@ python-dotenv
 langchain-community
 langchain-huggingface
 bs4
+chromadb
+tiktoken
+faiss-cpu
